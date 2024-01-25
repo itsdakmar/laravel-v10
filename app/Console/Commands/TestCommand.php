@@ -27,6 +27,6 @@ class TestCommand extends Command
      */
     public function handle()
     {
-        Log::debug('This is from test command!..');
+        Log::debug('This is from test command!.');
     }
 }
